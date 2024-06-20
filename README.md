@@ -3,7 +3,7 @@ UAS TAM
 
 # FarmWise
 FarmWise adalah aplikasi yang dapat mempermudah petani dalam mengakses informasi terkait pertanian. 
-FarmWise ini dapat membantu petani dalam meningktakan produktivitas pertanian dengan memberikan panduan terkait budidaya.
+FarmWise ini dapat membantu petani dalam meningkatkan produktivitas pertanian dengan memberikan panduan terkait budidaya.
 
 Nama Anggota :
 1. Dino Apriyanto		     2257051011
