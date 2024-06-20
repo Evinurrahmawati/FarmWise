@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FarmWise</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_tanaman">TanamanActivity</string>
+    <string name="title_activity_pupuk">PupukActivity</string>
+    <string name="title_activity_hama">HamaActivity</string>
+</resources>
